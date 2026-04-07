@@ -1,0 +1,1 @@
+Console based Python password checker that validates length and analyzes characters (uppercase, lowercase, digits, symbols) to classify strength as weak, medium, or strong using loops, conditions, and string methods.
